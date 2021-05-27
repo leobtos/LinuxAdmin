@@ -10,5 +10,6 @@
  
  Updated: 05/26/2021
  
- If you like this code or read this, please send me a message: leobtos@gmail.com\n
- #Language Code: PT-BR
+ If you like this code or read this, please send me a message!
+
+ leobtos@gmail.com
